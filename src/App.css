@@ -37,9 +37,9 @@
   border-radius: 4px;
   border: none;
   background: linear-gradient(-225deg, #ac32e4 0%, #7918f2 48%, #4801ff 100%);
-  color: #e2e2e225;
+  color: #e2e2e2;
 }
 
 .coin-input ::placeholder {
-  color: #e2e2e2;
+  color: #27278648;
 }

@@ -1,3 +1,45 @@
+## Cryptocurrency Price Tracking App ##
+*Build a react-App using React-hooks and React Axios, fetching all the data from Public API.
+
+*This allows users to to search currencies and have it display on the browser. Also, the prices will update live whenever you refresh the page.
+
+*You can check this app [here](https://crypto-tracker-f72eed.netlify.app)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

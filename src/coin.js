@@ -1,7 +1,7 @@
 import React from 'react';
 import './Coin.css';
 
-const coin = ({name, image, symbol, price, volume, priceChange, marketcap }) => {
+const Coin = ({name, image, symbol, price, volume, priceChange, marketcap }) => {
     return (
         <div className="coin-container">
             <div className="coin-row">
@@ -29,6 +29,6 @@ const coin = ({name, image, symbol, price, volume, priceChange, marketcap }) => 
     )
 }
 
-export default coin;
+export default Coin;
 
 
